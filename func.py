@@ -1,4 +1,4 @@
 import numpy as np
 def (staticView):
-  c=a**2
+  c=a**3
   return c 
